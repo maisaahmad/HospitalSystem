@@ -1,6 +1,6 @@
-  Hospital System
+#  Hospital System
 
-   This Java program is a basic Hospital System that allows the user to perform various tasks related to managing patients, doctors, appointments, and hospital departments. The program uses various data structures such as ArrayList, LinkedList, Stack, Queue, and Tree to store and organize different types of data.
+ ##  This Java program is a basic Hospital System that allows the user to perform various tasks related to managing patients, doctors, appointments, and hospital departments. The program uses various data structures such as ArrayList, LinkedList, Stack, Queue, and Tree to store and organize different types of data.
 
 The main method of the program presents a menu to the user with several options, such as adding a patient or doctor, scheduling an appointment, searching for a patient, sorting patients by name, printing all the patient, show last patient added and delete last scheduled appointment. The user can select an option by entering a number, and the program will execute the corresponding functionality.
 
